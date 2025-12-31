@@ -15,14 +15,7 @@
 - 🔭 I’m currently working on improving my **Next.js** skills.
 - 🌐 View my open-source projects below or check my [Repositories](https://github.com/junayed17?tab=repositories).
 
-## 🛠 Tech Stack
-- **Frontend:** React.js, HTML5, CSS3, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Tools:** Git, GitHub, VS Code
-## 💻 Technologies that i know
-
-<div align="center">
+<div>
 
 ## 🛠 Tech Stack
 
