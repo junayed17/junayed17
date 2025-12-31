@@ -53,11 +53,12 @@
 Feel free to connect with me on social platforms!
 
 <p align="center">
+  
   <a href="https://linkedin.com/in/junayed17">
     <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" />
   </a>
-  <a href="https://instagram.com/junayed17">
-    <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" />
+  <a href="https://github.com/junayed17">
+    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/junayed17)  
   </a>
   <a href="https://twitter.com/junayed17">
     <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" />
