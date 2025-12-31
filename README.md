@@ -58,4 +58,7 @@ Feel free to connect with me on social platforms!
   <a href="https://twitter.com/junayed17">
     <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" />
   </a>
+  <a href="mailto:junayedahmednipun@gmail.com?subject=Hello%20Junayed&body=Hi%20Junayed,%0AI%20found%20you%20on%20GitHub.">
+  <img src="https://www.svgrepo.com/show/452213/email.svg" height="40em" />
+</a>
 </p>
