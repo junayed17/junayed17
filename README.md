@@ -10,45 +10,52 @@
 ---
 
 ## 📖 About Me
-- 🖥 **MERN Stack Web Developer** passionate about building web applications.
-- 🎓 **CSE Student** at Jatiya Kabi Kazi Nazrul Islam University, Mymensingh.
-- 🔭 I’m currently working on improving my **Next.js** skills.
-- 🌐 View my open-source projects below or check my [Repositories](https://github.com/junayed17?tab=repositories).
+- 🖥 **MERN Stack Web Developer** passionate about building real-world web applications  
+- 🎓 **CSE Student** at Jatiya Kabi Kazi Nazrul Islam University, Mymensingh  
+- 🔭 Currently improving my **Next.js** skills  
+- 🌐 Check out my projects or visit my [Repositories](https://github.com/junayed17?tab=repositories)
 
-<div align="center">
+---
 
 ## 🛠 Tech Stack
 
 ### 🎨 Frontend
-<p>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+<p align="center">
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
 </p>
 
 ### ⚙️ Backend & Database
-<p>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+<p align="center">
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
 </p>
 
 ### 🚀 Tools
-<p>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+<p align="center">
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
 
-### 📫 How to reach me:
+---
 
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
+## 📫 How to reach me
 
-<p>
-<a href="https://linkedin.com/in/junayed17"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" alt="Follow on LinkedIn"/></a>
-<a href="https://instagram.com/junayed17"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" alt="Follow on Instagram"/></a>
-<a href="https://twitter.com/junayed17"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" alt="Follow on Twitter"/></a>
+You can reach me via the email listed on my GitHub profile.  
+Feel free to connect with me on social platforms!
+
+<p align="center">
+  <a href="https://linkedin.com/in/junayed17">
+    <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" />
+  </a>
+  <a href="https://instagram.com/junayed17">
+    <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" />
+  </a>
+  <a href="https://twitter.com/junayed17">
+    <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" />
+  </a>
 </p>
-
-</div>
