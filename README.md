@@ -20,35 +20,39 @@
 ## 🛠 Tech Stack
 
 ### 🎨 Frontend
-<a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-
-<!-- <br/> -->
+<p>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+</p>
 
 ### ⚙️ Backend & Database
-<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
-
-<!-- <br/> -->
+<p>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+</p>
 
 ### 🚀 Tools
-<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+<p>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+</p>
 
 </div>
 
 <div align="center">
+
 ### 📫 How to reach me:
-  <br/>
+
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
-
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" alt="Follow on LinkedIn" title="Follow on LinkedIn"/>](https://linkedin.com/in/junayed17)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" alt="Follow on Instagram" title="Follow on Instagram"/>](https://instagram.com/junayed17)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" alt="Follow on Twitter" title="Follow on Twitter"/>](https://twitter.com/junayed17)
+<p>
+<a href="https://linkedin.com/in/junayed17"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" alt="Follow on LinkedIn"/></a>
+<a href="https://instagram.com/junayed17"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" alt="Follow on Instagram"/></a>
+<a href="https://twitter.com/junayed17"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" alt="Follow on Twitter"/></a>
+</p>
 
 </div>
