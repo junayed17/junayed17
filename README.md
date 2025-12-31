@@ -83,3 +83,8 @@ Feel free to connect with me on social platforms!
 - MongoDB + Express backend architecture  
 📂 Repository: https://github.com/junayed17/bookcourier
 
+## 🤝 Open to Opportunities
+- Open for **Internship / Junior Frontend / MERN Developer** roles
+- Passionate about learning and growing in a team environment
+- Available for remote or on-site opportunities
+
