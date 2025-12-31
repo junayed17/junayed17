@@ -90,5 +90,4 @@ Feel free to connect with me on social platforms!
 
 ## 💻 My GitHub Stats
 
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junayed17&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=junayed17&show_icons=true&theme=radical">
