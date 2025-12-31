@@ -70,33 +70,11 @@ Feel free to connect with me on social platforms!
 
 
 ---
-
-## 🚀 Featured Projects
-
-### 🔹 SmartBus – Campus Bus Management System
-- MERN stack based seat reservation & monitoring system
-- Role-based dashboard (Admin, Student)
-- Real-time seat availability, reports & notifications  
-🔗 Live Demo: https://your-live-link.com  
-📂 Repository: https://github.com/junayed17/smartbus
-
----
-
-### 🔹 BookCourier – Library to Home Delivery System
-- REST API with authentication & authorization
-- Order management & tracking system
-- MongoDB + Express backend architecture  
-📂 Repository: https://github.com/junayed17/bookcourier
-
 ## 🤝 Open to Opportunities
 - Open for **Internship / Junior Frontend / MERN Developer** roles
 - Passionate about learning and growing in a team environment
 - Available for remote or on-site opportunities
 
-
-## 💻 My GitHub Stats
-
----
 
 ## 💻 Profile Overview
 
