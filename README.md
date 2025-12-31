@@ -45,7 +45,7 @@
 
 ## 📫 How to reach me
 
-You can reach me via the email listed on my GitHub profile.  
+You can reach me via the following social platform.  
 Feel free to connect with me on social platforms!
 
 <p align="center">
