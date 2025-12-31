@@ -1,8 +1,9 @@
 <div align="center">
   <img src="https://i.ibb.co.com/VWgXx0XG/White-Clean-Minimalist-Online-Business-Facebook-Cover.png" width="100%" />
 
-  # Hi there, I'm Junayed! 👋
-  
+ # Hi there, I'm Junayed Ahmmad! 👋
+### MERN Stack Web Developer
+
   ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=junayed17.visitor-badge&color=00cf00)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junayed17)
 </div>
