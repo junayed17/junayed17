@@ -13,10 +13,14 @@
 ## 📖 About Me
 - 🖥 **MERN Stack Web Developer** passionate about building real-world web applications  
 - 🎓 **CSE Student** at Jatiya Kabi Kazi Nazrul Islam University, Mymensingh  
-- 🔭 Currently improving my **Next.js** skills  
 - 🌐 Check out my projects or visit my [Repositories](https://github.com/junayed17?tab=repositories)
 
 ---
+## 🔄 Current Activities
+
+- Exploring **Next.js** and learning advanced React patterns  
+- Working on my personal **portfolio website**  
+- Practicing **JavaScript projects** to improve real-world coding skills  
 
 ## 🛠 Tech Stack
 
