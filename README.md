@@ -88,3 +88,9 @@ Feel free to connect with me on social platforms!
 - Passionate about learning and growing in a team environment
 - Available for remote or on-site opportunities
 
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=junayed17&show_icons=true&theme=tokyonight" />
+</p>
