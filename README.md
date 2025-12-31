@@ -43,9 +43,8 @@
 
 ---
 
-## 📫 How to reach me
-
-You can reach me via the following social platform.  
+## 🌐 Connect With Me
+ 
 Feel free to connect with me on social platforms!
 
 <p align="center">
