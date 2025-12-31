@@ -10,7 +10,7 @@
 ---
 
 ## 📖 About Me
-- 🖥 **MERN Stack Web Developer** passionate about building full-stack applications.
+- 🖥 **MERN Stack Web Developer** passionate about building web applications.
 - 🎓 **CSE Student** at Jatiya Kabi Kazi Nazrul Islam University, Mymensingh.
 - 🔭 I’m currently working on improving my **Next.js** skills.
 - 🌐 View my open-source projects below or check my [Repositories](https://github.com/junayed17?tab=repositories).
@@ -20,3 +20,31 @@
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Tools:** Git, GitHub, VS Code
+## 💻 Technologies that i know
+
+<div align="center">
+
+## 🛠 Tech Stack
+
+### 🎨 Frontend
+<a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+
+<br/>
+
+### ⚙️ Backend & Database
+<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+
+<br/>
+
+### 🚀 Tools
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+
+</div>>
+
