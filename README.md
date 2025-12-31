@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on improving my **Next.js** skills.
 - 🌐 View my open-source projects below or check my [Repositories](https://github.com/junayed17?tab=repositories).
 
-<div>
+<div align="center">
 
 ## 🛠 Tech Stack
 
