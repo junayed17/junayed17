@@ -95,5 +95,6 @@ Feel free to connect with me on social platforms!
 ## ⚡ My GitHub Streak
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=junayed17)  
+![GitHub metrics](https://metrics.lecoq.io/junayed17)  
+
 
