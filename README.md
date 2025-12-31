@@ -88,8 +88,8 @@ Feel free to connect with me on social platforms!
 - Available for remote or on-site opportunities
 
 
-## 📊 GitHub Stats
+## 💻 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junayed17&show_icons=true&theme=tokyonight" />
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junayed17&show_icons=true&theme=radical)
 </p>
