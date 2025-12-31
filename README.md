@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 -->
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/junayed17) ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=[junayed17].visitor-badge) 
 
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥 web developer
+- 🎓studing 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 and engineering 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 jatiya kabi kazi nazrul islam university,mymensingh,dhaka ,bangladesh 𝚆𝚊𝚝𝚎𝚛𝚕𝚘𝚘
+- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/junayed17)]([https://aur.archlinux.org/packages/?SeB=M&K=Raymo111](https://github.com/junayed17?tab=repositories))
