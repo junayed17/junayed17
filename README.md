@@ -1,23 +1,22 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co.com/VWgXx0XG/White-Clean-Minimalist-Online-Business-Facebook-Cover.png)
+<div align="center">
+  <img src="https://i.ibb.co.com/VWgXx0XG/White-Clean-Minimalist-Online-Business-Facebook-Cover.png" width="100%" />
 
+  # Hi there, I'm Junayed! 👋
+  
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=junayed17.visitor-badge&color=00cf00)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junayed17)
+</div>
 
-<!--
-**junayed17/junayed17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📖 About Me
+- 🖥 **MERN Stack Web Developer** passionate about building full-stack applications.
+- 🎓 **CSE Student** at Jatiya Kabi Kazi Nazrul Islam University, Mymensingh.
+- 🔭 I’m currently working on improving my **Next.js** skills.
+- 🌐 View my open-source projects below or check my [Repositories](https://github.com/junayed17?tab=repositories).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/junayed17) ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=[junayed17].visitor-badge) 
-
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 web developer
-- 🎓studing 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 and engineering 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 jatiya kabi kazi nazrul islam university,mymensingh,dhaka ,bangladesh 𝚆𝚊𝚝𝚎𝚛𝚕𝚘𝚘
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/junayed17)]([https://aur.archlinux.org/packages/?SeB=M&K=Raymo111](https://github.com/junayed17?tab=repositories))
+## 🛠 Tech Stack
+- **Frontend:** React.js, HTML5, CSS3, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, VS Code
