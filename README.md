@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=[junayed17].visitor-badge)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/junayed17)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/junayed17) ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=[junayed17].visitor-badge) 
 
