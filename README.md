@@ -94,9 +94,10 @@ Feel free to connect with me on social platforms!
 
 ## 💻 Profile Overview
 
-  
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/junayed17/contributions?format=svg&private=false)  
 
 ![GitHub metrics](https://metrics.lecoq.io/junayed17)  
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=junayed17)  
 
 
