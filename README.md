@@ -90,4 +90,9 @@ Feel free to connect with me on social platforms!
 
 ## 💻 My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=junayed17&show_icons=true&theme=radical">
+---
+
+## 💻 My GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=junayed17&show_icons=true&theme=radical&cache_seconds=1800)
+
